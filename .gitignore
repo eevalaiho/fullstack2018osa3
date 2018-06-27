@@ -65,3 +65,6 @@ typings/
 
 # Mongo
 mongo.js
+
+# env
+.env
